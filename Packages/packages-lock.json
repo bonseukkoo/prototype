@@ -9,6 +9,13 @@
       },
       "hash": "b7411e2cdee6d4478e1754ea042586c6b5911a8b"
     },
+    "com.gilzoide.gradient-rect": {
+      "version": "https://github.com/gilzoide/unity-gradient-rect.git#1.1.0",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "e6be9f138022c93b16b68218bc6b762d4cef9002"
+    },
     "com.unity.2d.animation": {
       "version": "12.0.2",
       "depth": 1,
